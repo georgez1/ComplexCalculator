@@ -6,8 +6,7 @@
 
 Также работает с онлайн-интерпретатором
 www.online-python.com  
-или  
-http://pythonide.online
+или  http://pythonide.online
 
 SOLID-принципы:
 * Single Responsibility Principle (SRP);
